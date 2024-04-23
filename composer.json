@@ -1,0 +1,17 @@
+{
+    "name": "artemy/stringreverser",
+    "autoload": {
+        "psr-4": {
+            "artemy\\src\\": "/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artemy",
+            "email": "24319994+DewFill@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    }
+}
